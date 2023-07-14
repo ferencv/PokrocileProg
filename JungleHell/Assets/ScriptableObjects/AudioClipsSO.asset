@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a62daa402ed3da14ba33649ea2efee60, type: 3}
+  m_Name: AudioClipsSO
+  m_EditorClassIdentifier: 
+  playerShoot: {fileID: 8300000, guid: 9b5c04ab781644d408c946fb0d468418, type: 3}
+  playerShootEmpty: {fileID: 8300000, guid: 0db8862b7fe5bfa449b0f993e1fff825, type: 3}
+  playerGrabAmmo: {fileID: 8300000, guid: 57e1f2f1d21957d4b9c43052a5ae927f, type: 3}
+  playerReload: {fileID: 8300000, guid: 9158afb6966d445db9caf1dccf7acbcc, type: 3}
+  playerReload2: {fileID: 8300000, guid: 9158afb6966d445db9caf1dccf7acbcc, type: 3}
+  playerFootstep: {fileID: 8300000, guid: fe175f117cf3fb2428d279bc830a1830, type: 3}
+  playerSingleFootstep: {fileID: 8300000, guid: fe175f117cf3fb2428d279bc830a1830,
+    type: 3}
+  playerHit: {fileID: 8300000, guid: 0a14b81c9eeb97d42861fbdd686e65da, type: 3}
+  apeEnemyAttack: {fileID: 8300000, guid: f3b834e881c44dc4382d47d5cb802931, type: 3}
+  apeEnemyFootstep: {fileID: 8300000, guid: 3bd1b93317b7a3a49b13011cdaa64d0b, type: 3}
+  apeEnemyHit: {fileID: 8300000, guid: 95910070beb291d458a6c887c5003fa5, type: 3}
+  apeEnemyHit2: {fileID: 8300000, guid: 06083143d7a1db64097df792d95c5ed0, type: 3}
+  apeEnemyHit3: {fileID: 8300000, guid: 8d38e2ef1fa3a7645b406a453c572acf, type: 3}
+  apeEnemyHit4: {fileID: 8300000, guid: 95910070beb291d458a6c887c5003fa5, type: 3}
+  enemyAttack: {fileID: 8300000, guid: c9ccf6cbea8ec0a479e28ccb1f474e5e, type: 3}
+  enemyFootstep: {fileID: 8300000, guid: b15f8eaceae712040a379ad0aaff9240, type: 3}
+  enemyHit: {fileID: 8300000, guid: 0a14b81c9eeb97d42861fbdd686e65da, type: 3}
+  gameOverSound: {fileID: 8300000, guid: 5fdb13d3756c84fecac96f5a2d124370, type: 3}
+  gameFinishedSound: {fileID: 8300000, guid: 7478151cf36724a7dada558f746c3633, type: 3}
